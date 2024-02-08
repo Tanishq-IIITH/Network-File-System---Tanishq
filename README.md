@@ -217,9 +217,9 @@ A big thank you to all the wonderful people who contributed to this project!
 
 <!-- Add contributors' names and, if applicable, their GitHub profiles or other relevant links -->
 
-- [Tanishq agarwal](https://github.com/johndoe) (2022101060)
-- [Gopal Garg](https://github.com/janesmith) (2022101079)
-- [Sahil Patel](https://github.com/bobjohnson) (2022101046)
+- [Tanishq agarwal](https://github.com/Tanishq-IIITH) (2022101060)
+- [Gopal Garg](https://github.com/jamesbond007G) (2022101079)
+- [Sahil Patel](https://github.com/Sahil4804) (2022101046)
 
 <!-- Feel free to add more contributors as needed -->
 
